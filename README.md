@@ -15,3 +15,5 @@
  - Perform analysis on specific columns
  - Create visualisations
  - Extract data to be vizualised
+
+For the best experience, you can access the web version of the project here: https://historicwatches.my.canva.site/a-project-about-watches
