@@ -8,7 +8,7 @@
  - Number of watches released per year and price correlation
  - Evolution of price since first commercial release
 
- - **STEPS TO TAKE**
+ **STEPS TO TAKE**
  - Data cleaning and formatting – looking for duplicates and null values to eliminate
  - Formatting column names
  - Data formatting – change column type to a more usable format where necessary
